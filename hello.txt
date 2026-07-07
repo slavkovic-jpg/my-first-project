@@ -1,1 +1,1 @@
-Hello Milos, I understang Git better now!
+This is a change inside test-feature branch
