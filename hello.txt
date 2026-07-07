@@ -1,1 +1,1 @@
-Hello Milos, I am getting better at Git!
+Hello Milos, my code is now on GitHub!
